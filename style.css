@@ -1,0 +1,32 @@
+.container{
+    position: relative;
+    background:rgb(220, 27, 194); 
+    height:100px; 
+    border-style:dotted;
+}
+body{
+    background-color: rgb(180, 206, 127);
+}
+.box1{
+    position: absolute; 
+    top: 10px; 
+    left: 20px; 
+    background:white; 
+    height:30px; 
+    width:20%;
+    border-style:dotted;
+}
+.box2{
+    position: absolute; 
+    top: 10px; 
+    left: 1200px; 
+    background:black; 
+    height:30px;  
+    width:20%;
+    border-style:dotted; 
+}
+.hs{
+    font-size:100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:green;
+}
